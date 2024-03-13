@@ -1,2 +1,3 @@
-# cpp-debug
-Build/Run/Debug C++ File with Codespaces
+# Bubble Sort, Convert to Template
+
+A simple implementation of bubble sort for demonstrating template functions.
